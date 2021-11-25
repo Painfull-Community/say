@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "description": "say module for the Painfull bot",
   "main": "src/index.js",
+  "original_pain_version": "1.0.0",
+  "min_pain_version": "0.0.1",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Painfull-Community/say.git"

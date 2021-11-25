@@ -3,6 +3,7 @@
     "version": "1.1.0",
     "author": "Skelly & Vukky",
     "original_pain_version": "1.0.0",
+    "minimum_pain_version": "1.0.0",
     "entrypoints": {
         "say": "src/index.js"
     }

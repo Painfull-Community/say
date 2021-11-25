@@ -1,19 +1,16 @@
 {
-  "name": "example-module",
+  "name": "say",
   "version": "1.0.0",
-  "description": "Example module for the Painfull bot",
+  "description": "say module for the Painfull bot",
   "main": "src/index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Painfull-Community/example-module.git"
+    "url": "git+https://github.com/Painfull-Community/say.git"
   },
   "author": "Skelly & Vukky",
   "license": "UNLICENCED",
   "bugs": {
-    "url": "https://github.com/Painfull-Community/example-module/issues"
+    "url": "https://github.com/Painfull-Community/say/issues"
   },
-  "homepage": "https://github.com/Painfull-Community/example-module#readme",
-  "dependencies": {
-    "node-fetch": "^2.6.6"
-  }
+  "say": "https://github.com/Painfull-Community/say#readme"
 }

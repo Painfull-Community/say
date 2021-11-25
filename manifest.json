@@ -3,6 +3,6 @@
     "version": "1.0.0",
     "author": "Skelly & Vukky",
     "entrypoints": {
-        "testcommand": "src/index.js"
+        "say": "src/index.js"
     }
 }

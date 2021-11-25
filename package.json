@@ -1,6 +1,6 @@
 {
   "name": "say",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "say module for the Painfull bot",
   "main": "src/index.js",
   "original_pain_version": "1.0.0",
